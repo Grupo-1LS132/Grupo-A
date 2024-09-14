@@ -1,5 +1,6 @@
 # Grupo-A
 Repositorio del Grupo A
+Coordinador: José Ibarra (Joseim21)
 
 ---
 
