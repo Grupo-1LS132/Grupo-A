@@ -1,8 +1,8 @@
 # Grupo-A
 Repositorio del Grupo A
-Coordinador: José Ibarra (Joseim21)
 
 ---
+Coordinador: José Ibarra (Joseim21)
 
 ## Clonar-Repositorio
 
